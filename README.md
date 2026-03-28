@@ -1,4 +1,4 @@
-# 📈 High-Frequency Pairs Trading Algorithm
+# High-Frequency Pairs Trading Algorithm
 
 > **Cointegration · Ornstein-Uhlenbeck · Bollinger Bands**  
 > A production-grade quantitative trading strategy with full backtesting, slippage, and commission modelling.
