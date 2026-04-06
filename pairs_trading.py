@@ -4,7 +4,6 @@ High-Frequency Pairs Trading Algorithm
 Cointegration + Ornstein-Uhlenbeck + Bollinger Bands
 with full backtesting, slippage, and commission calculations.
 
-Author: Generated for quantitative finance demonstration
 """
 
 import numpy as np
